@@ -1,0 +1,6 @@
+name 김동욱
+std_id 201920723
+birth 13/12/2000
+department 소프트웨어학과
+college 정보통신대학
+is_ajou yes

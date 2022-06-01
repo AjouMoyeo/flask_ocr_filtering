@@ -1,0 +1,4 @@
+*.pth
+OCR/tesseract
+*.dic
+*.h5
